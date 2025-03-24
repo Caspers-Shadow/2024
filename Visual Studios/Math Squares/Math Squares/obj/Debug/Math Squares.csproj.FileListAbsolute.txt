@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Math Squares\Math Squares\obj\Debug\Math Squares.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Math Squares\Math Squares\obj\Debug\Math_Squares.Form1.resources
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Math Squares\Math Squares\obj\Debug\Math_Squares.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Math Squares\Math Squares\obj\Debug\Math Squares.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Math Squares\Math Squares\obj\Debug\Math Squares.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Math Squares\Math Squares\bin\Debug\Math Squares.exe.config
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Math Squares\Math Squares\bin\Debug\Math Squares.exe
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Math Squares\Math Squares\bin\Debug\Math Squares.pdb
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Math Squares\Math Squares\obj\Debug\Math Squares.exe
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Math Squares\Math Squares\obj\Debug\Math Squares.pdb

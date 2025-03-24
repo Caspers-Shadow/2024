@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Taxi_Mock_Test\Taxi_Mock_Test\bin\Debug\Taxi_Mock_Test.exe.config
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Taxi_Mock_Test\Taxi_Mock_Test\bin\Debug\Taxi_Mock_Test.exe
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Taxi_Mock_Test\Taxi_Mock_Test\bin\Debug\Taxi_Mock_Test.pdb
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Taxi_Mock_Test\Taxi_Mock_Test\obj\Debug\Taxi_Mock_Test.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Taxi_Mock_Test\Taxi_Mock_Test\obj\Debug\Taxi_Mock_Test.Form1.resources
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Taxi_Mock_Test\Taxi_Mock_Test\obj\Debug\Taxi_Mock_Test.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Taxi_Mock_Test\Taxi_Mock_Test\obj\Debug\Taxi_Mock_Test.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Taxi_Mock_Test\Taxi_Mock_Test\obj\Debug\Taxi_Mock_Test.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Taxi_Mock_Test\Taxi_Mock_Test\obj\Debug\Taxi_Mock_Test.exe
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Taxi_Mock_Test\Taxi_Mock_Test\obj\Debug\Taxi_Mock_Test.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxi_Mock_Test", "Taxi_Mock_Test\Taxi_Mock_Test.csproj", "{001A710D-B49D-4CC0-B379-10F34966251D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001A710D-B49D-4CC0-B379-10F34966251D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001A710D-B49D-4CC0-B379-10F34966251D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001A710D-B49D-4CC0-B379-10F34966251D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001A710D-B49D-4CC0-B379-10F34966251D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0576DC6-1875-4439-9C86-A74A29D7DF2A}
+	EndGlobalSection
+EndGlobal

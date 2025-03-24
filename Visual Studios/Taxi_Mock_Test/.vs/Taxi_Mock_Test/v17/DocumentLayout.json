@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\2024\\CMPG 122\\Taxi_Mock_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{001A710D-B49D-4CC0-B379-10F34966251D}|Taxi_Mock_Test\\Taxi_Mock_Test.csproj|c:\\users\\user\\onedrive\\documents\\2024\\cmpg 122\\taxi_mock_test\\taxi_mock_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001A710D-B49D-4CC0-B379-10F34966251D}|Taxi_Mock_Test\\Taxi_Mock_Test.csproj|solutionrelative:taxi_mock_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001A710D-B49D-4CC0-B379-10F34966251D}|Taxi_Mock_Test\\Taxi_Mock_Test.csproj|C:\\Users\\User\\OneDrive\\Documents\\2024\\CMPG 122\\Taxi_Mock_Test\\taxi_mock_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{001A710D-B49D-4CC0-B379-10F34966251D}|Taxi_Mock_Test\\Taxi_Mock_Test.csproj|solutionrelative:taxi_mock_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\2024\\CMPG 122\\Taxi_Mock_Test\\Taxi_Mock_Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Taxi_Mock_Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\2024\\CMPG 122\\Taxi_Mock_Test\\Taxi_Mock_Test\\Form1.cs",
+              "RelativeToolTip": "Taxi_Mock_Test\\Form1.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:07:22.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\2024\\CMPG 122\\Taxi_Mock_Test\\Taxi_Mock_Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Taxi_Mock_Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\2024\\CMPG 122\\Taxi_Mock_Test\\Taxi_Mock_Test\\Form1.cs [Design]",
+              "RelativeToolTip": "Taxi_Mock_Test\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:31:52.181Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

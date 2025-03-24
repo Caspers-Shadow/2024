@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\2024\\CMPG 122\\Math Squares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D90A-3A23-49E2-8C97-5F993F2FA9EE}|Math Squares\\Math Squares.csproj|c:\\users\\user\\onedrive\\documents\\2024\\cmpg 122\\math squares\\math squares\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D556D90A-3A23-49E2-8C97-5F993F2FA9EE}|Math Squares\\Math Squares.csproj|solutionrelative:math squares\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D90A-3A23-49E2-8C97-5F993F2FA9EE}|Math Squares\\Math Squares.csproj|C:\\Users\\User\\OneDrive\\Documents\\2024\\CMPG 122\\Math Squares\\math squares\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D556D90A-3A23-49E2-8C97-5F993F2FA9EE}|Math Squares\\Math Squares.csproj|solutionrelative:math squares\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\2024\\CMPG 122\\Math Squares\\Math Squares\\Form1.cs",
+              "RelativeDocumentMoniker": "Math Squares\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\2024\\CMPG 122\\Math Squares\\Math Squares\\Form1.cs",
+              "RelativeToolTip": "Math Squares\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:39:08.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\2024\\CMPG 122\\Math Squares\\Math Squares\\Form1.cs",
+              "RelativeDocumentMoniker": "Math Squares\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\2024\\CMPG 122\\Math Squares\\Math Squares\\Form1.cs [Design]",
+              "RelativeToolTip": "Math Squares\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:29:17.22Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

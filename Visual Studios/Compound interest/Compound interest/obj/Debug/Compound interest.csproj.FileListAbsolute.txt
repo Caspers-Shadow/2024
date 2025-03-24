@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Compound interest\Compound interest\bin\Debug\Compound interest.exe.config
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Compound interest\Compound interest\bin\Debug\Compound interest.exe
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Compound interest\Compound interest\bin\Debug\Compound interest.pdb
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Compound interest\Compound interest\obj\Debug\Compound interest.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Compound interest\Compound interest\obj\Debug\Compound interest.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Compound interest\Compound interest\obj\Debug\Compound_interest.Form1.resources
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Compound interest\Compound interest\obj\Debug\Compound_interest.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Compound interest\Compound interest\obj\Debug\Compound interest.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Compound interest\Compound interest\obj\Debug\Compound interest.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Compound interest\Compound interest\obj\Debug\Compound interest.exe
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Compound interest\Compound interest\obj\Debug\Compound interest.pdb
