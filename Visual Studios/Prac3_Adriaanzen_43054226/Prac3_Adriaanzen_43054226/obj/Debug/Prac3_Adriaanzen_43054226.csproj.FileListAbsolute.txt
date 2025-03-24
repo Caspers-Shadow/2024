@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Week 3\Prac3_Adriaanzen_43054226\Prac3_Adriaanzen_43054226\bin\Debug\Prac3_Adriaanzen_43054226.exe.config
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Week 3\Prac3_Adriaanzen_43054226\Prac3_Adriaanzen_43054226\bin\Debug\Prac3_Adriaanzen_43054226.exe
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Week 3\Prac3_Adriaanzen_43054226\Prac3_Adriaanzen_43054226\bin\Debug\Prac3_Adriaanzen_43054226.pdb
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Week 3\Prac3_Adriaanzen_43054226\Prac3_Adriaanzen_43054226\obj\Debug\Prac3_Adriaanzen_43054226.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Week 3\Prac3_Adriaanzen_43054226\Prac3_Adriaanzen_43054226\obj\Debug\Prac3_Adriaanzen_43054226.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Week 3\Prac3_Adriaanzen_43054226\Prac3_Adriaanzen_43054226\obj\Debug\Prac3_Adriaanzen_43054226.Form1.resources
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Week 3\Prac3_Adriaanzen_43054226\Prac3_Adriaanzen_43054226\obj\Debug\Prac3_Adriaanzen_43054226.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Week 3\Prac3_Adriaanzen_43054226\Prac3_Adriaanzen_43054226\obj\Debug\Prac3_Adriaanzen_43054226.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Week 3\Prac3_Adriaanzen_43054226\Prac3_Adriaanzen_43054226\obj\Debug\Prac3_Adriaanzen_43054226.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Week 3\Prac3_Adriaanzen_43054226\Prac3_Adriaanzen_43054226\obj\Debug\Prac3_Adriaanzen_43054226.exe
+C:\Users\User\OneDrive\Documents\2024\CMPG 122\Week 3\Prac3_Adriaanzen_43054226\Prac3_Adriaanzen_43054226\obj\Debug\Prac3_Adriaanzen_43054226.pdb
